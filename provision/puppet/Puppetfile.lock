@@ -1,0 +1,12 @@
+FORGE
+  remote: https://forgeapi.puppetlabs.com
+  specs:
+    maestrodev-wget (1.5.0)
+    puppetlabs-stdlib (4.3.2)
+    willdurand-nodejs (1.6.5)
+      maestrodev-wget (>= 1.2.0)
+      puppetlabs-stdlib (>= 3.2.1)
+
+DEPENDENCIES
+  willdurand-nodejs (>= 0)
+
